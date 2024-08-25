@@ -17,7 +17,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" alt="Svelte"/></code>
-<code><img height="32" src="https://banner2.cleanpng.com/20180519/zqq/kisspng-php-server-side-scripting-yii-web-application-scri-5b00d886698cb9.3580042815267820864324.jpg" alt="Php"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="Php"/></code>
+<code><img height="32" src="https://imgs.search.brave.com/FEdw0d6Mf83-5CBAm7pedh2vzm-8RJOfVtpE0Hywpss/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" alt="TypeScript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"/></code>
 
 ---
