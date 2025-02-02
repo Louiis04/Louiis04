@@ -20,6 +20,7 @@
 <code><img height="32" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="Php"/></code>
 <code><img height="32" src="https://imgs.search.brave.com/FEdw0d6Mf83-5CBAm7pedh2vzm-8RJOfVtpE0Hywpss/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" alt="TypeScript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel"/></code>
 
 ---
 
