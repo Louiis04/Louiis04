@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/Louiis04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louiis04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiis04&layout=compact&langs_count=7&theme=dark"/>
-  <img src="https://streak-stats.demolab.com?user=Louiis04&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louiis04&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiis04&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Louiis04&theme=shades-of-purple&hide_border=true"/>
 </div>
