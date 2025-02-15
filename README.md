@@ -43,4 +43,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louiis04&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiis04&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=Louiis04&theme=shades-of-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=Louiis04&theme=shades-of-purple&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
