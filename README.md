@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Louis!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=1000&color=FF2E88&center=true&vCenter=true&width=500&lines=Hello,+i'm+Louis!+Welcome+to+my+profile!;" alt="Typing SVG" />
+</div>
 
 ## 🎓 About Me
 I'm a student at the Federal Institute of Education, Science and Technology of Pernambuco (IFPE), pursuing a degree in Internet Systems. Passionate about technology and always eager to learn new things in the world of web development.
