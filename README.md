@@ -43,10 +43,3 @@ I'm a student at the Federal Institute of Education, Science and Technology of P
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardosport1000@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.luis04)
 
----
-
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaboration.</p>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Louiis04/count.svg)
-</div>
