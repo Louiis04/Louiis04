@@ -14,8 +14,6 @@ I'm a student at the Federal Institute of Education, Science and Technology of P
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louiis04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiis04&layout=compact&langs_count=7&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louiis04&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app?username=Louiis04&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
