@@ -1,43 +1,67 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=1000&color=FF2E88&center=true&vCenter=true&width=500&lines=Hello,+i'm+Louis!+Welcome+to+my+profile!;" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E88,100:1a1b27&height=180&section=header&text=Louis&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Internet%20Systems%20Student%20@%20IFPE&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&duration=3500&pause=800&color=FF2E88&center=true&vCenter=true&width=600&lines=Hello,+I'm+Louis!+%F0%9F%91%8B;Welcome+to+my+profile!;Full+Stack+Developer+in+progress+%F0%9F%9A%80;Always+learning+something+new" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/luís-eduardo-magalhães-oliveira-1ba715274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:luiseduardosport1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/edu.luis04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </div>
 
-## 🎓 About Me
-I'm a student at the Federal Institute of Education, Science and Technology of Pernambuco (IFPE), pursuing a degree in Internet Systems. Passionate about technology and always eager to learn new things in the world of web development.
+---
 
-## 🚀 My Journey
-- 🔭 Currently studying at IFPE
-- 🌱 Learning and growing in web development
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about web technologies
+## 👨‍💻 About Me
 
-## 📊 GitHub Stats
+I'm a student at the **Federal Institute of Education, Science and Technology of Pernambuco (IFPE)**, pursuing a degree in **Internet Systems**. Passionate about technology and always eager to learn new things in the world of web development.
+
+```js
+const louis = {
+  location: "Pernambuco, Brazil 🇧🇷",
+  education: "Internet Systems @ IFPE",
+  currentlyLearning: ["Next.js", "MongoDB", "Python"],
+  lookingFor: "Innovative projects to collaborate on 👯",
+  askMeAbout: "Web technologies 💬",
+};
+```
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louiis04&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=Louiis04&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark" />
+
+### ⚙️ Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,python&theme=dark" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
 </div>
 
-## 💻 Technologies & Tools
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## 🔥 GitHub Streak
 
-## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louiis04&theme=radical&hide_border=true&background=1a1b27&ring=FF2E88&fire=FF2E88&currStreakLabel=FF2E88" alt="GitHub Streak" />
+</div>
 
-[![Louis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Louiis04&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-## 🌐 Connect with me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luís-eduardo-magalhães-oliveira-1ba715274)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardosport1000@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edu.luis04)
+### 💬 "Every expert was once a beginner."
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:FF2E88&height=120&section=footer" width="100%" />
+
+</div>
