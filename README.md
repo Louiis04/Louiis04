@@ -41,7 +41,7 @@ const louis = {
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,python&theme=dark" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
